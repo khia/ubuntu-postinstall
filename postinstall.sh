@@ -120,7 +120,7 @@ EOF
 sudo service docker start
 
 echo "install some additional packages"
-apt-get install -fqy git xpra emacs24 htop sshfs curl git cpp mercurial tree pandoc gufw w3m sqlite3 gimp traceroute meld editorconfig gnupg2 silversearcher-ag wireshark
+apt-get install -fqy git xpra emacs24 htop sshfs curl git cpp mercurial tree pandoc gufw w3m sqlite3 gimp traceroute meld editorconfig gnupg2 silversearcher-ag wireshark gitg
 
 ############################
 echo "Remove ubuntu spyware"
